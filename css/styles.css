@@ -1,8 +1,24 @@
 body {
   /*text-align: center;*/
-  background-color: #36b55c;
+  /*background-color: #36b55c; */
   color: white;
   font-family: 'Playfair Display', serif;
+}
+
+.color1 {
+ background-color: #36b55c;   
+}
+.color2 {
+ background-color: #3366ff;   
+}
+.color3 {
+ background-color: #ff3300;   
+}
+.color4 {
+ background-color: #99ff33;   
+}
+.color5 {
+ background-color: #cc66ff;   
 }
 #quote-box {
   position: absolute;
